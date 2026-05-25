@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "PerzaanLive",
-    "password": "",
+    "password": "123456789",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Lapata-smp-S-1.aternos.me",
+    "port": 60217,
     "version": "1.21.1"
   },
   "position": {
